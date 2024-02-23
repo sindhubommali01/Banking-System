@@ -1,0 +1,8 @@
+how to run this file:
+1)Open command prompt 
+2)Use cd command and move to BankingSystem directory 
+3)after entering into BankingSystem directory  again use cd and go to Banking
+	directory.
+4) now enter : "javac Banking.java"
+5) After Compilation type : "java Banking"
+6)Execution will start. 
